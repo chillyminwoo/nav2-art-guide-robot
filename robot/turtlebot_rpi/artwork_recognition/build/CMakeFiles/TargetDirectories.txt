@@ -1,0 +1,3 @@
+/home/ubuntu/artwork_recognition/build/CMakeFiles/artwork_recognition.dir
+/home/ubuntu/artwork_recognition/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/artwork_recognition/build/CMakeFiles/rebuild_cache.dir
