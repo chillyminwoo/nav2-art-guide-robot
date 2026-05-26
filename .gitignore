@@ -1,0 +1,34 @@
+# 빌드 산출물
+build/
+install/
+log/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 티켓 이미지 (발급 결과물)
+server/tickets/
+
+# DB (운영 데이터)
+server/tickets.db
+
+# 바이너리
+gate/build/gate_client
+robot/artwork_recognition/build/artwork_recognition
+robot/ui/build/museum_robot_ui
+
+# RealSense 임시
+/tmp/tts*.mp3
+
+# IDE
+.vscode/
+.idea/
+*.user
